@@ -1,7 +1,5 @@
 ### Hi, folks! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in IT-company on position Junior Product Marketing Manager
 - 😍 I like analytics, data science and product managment
 
